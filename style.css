@@ -1,0 +1,26 @@
+img {
+    width: 200px;
+}
+
+.results .money {
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+.a500 div,
+.a100 div,
+.a50 div,
+.a20 div,
+.a10 div,
+.a5 div,
+.a1 div {
+    margin-top: 30px;
+    margin-left: 30px;
+    font-size: 30px;
+}
+
+div {
+    margin-top: 30px;
+    margin-left: 30px;
+    font-size: 30px;
+}
